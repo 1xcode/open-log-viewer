@@ -67,10 +67,10 @@
     "lodash": "4.17.15",
     "material-design-icons-iconfont": "5.0.1",
     "typeface-roboto": "0.0.75",
-    "vue": "2.6.11",
+    "vue": "3.5.12",
     "vue-color": "2.7.1",
     "vue-i18n": "8.15.5",
-    "vuetify": "1.5.24"
+    "vuetify": "3.7.3"
   },
   "devDependencies": {
     "cross-env": "7.0.2",
